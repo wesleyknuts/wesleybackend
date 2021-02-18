@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/wesleyknuts/wesleybackend/issues"
     },
-    "homepage": "https://github.com/wesleyknuts/wesleybackend#readme"
+    "homepage": "https://github.com/wesleyknuts/wesleybackend#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
